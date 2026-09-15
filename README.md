@@ -82,3 +82,20 @@ Responsive & User-Friendly UI
         ↓
 Clean & Maintainable Code
 
+---
+
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/youssef-abdelbadea-0a943a355/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:youssefezzat993@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### ⭐ Thanks for visiting my profile!
